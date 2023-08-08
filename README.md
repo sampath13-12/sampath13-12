@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sampath13-12
+- 👋 Hi, I’m @sampath vinay
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Python,Django,MySql
 - 💞️ I’m looking to collaborate on ...

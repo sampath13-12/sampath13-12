@@ -2,7 +2,7 @@
 A Dedicated Java Developer Aspiring to Create Impactful Web Applications ⚡
 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Core Java(JSE),Advanced Java(JEE),MySql,Hibernate
+- 🌱 I’m currently learning Core Java(JSE),Advanced Java(JEE),MySql,Hibernate,SpringBoot
 - 📫 How to reach me on linked on https://www.linkedin.com/in/g-s-vinay-a88359267/
 
 <!---
